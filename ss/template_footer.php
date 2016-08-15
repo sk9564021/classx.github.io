@@ -1,1 +1,0 @@
-<div id="pageFooter">Copyright 2016 | <a href="http://www.classx.tk">classx</a></div>
